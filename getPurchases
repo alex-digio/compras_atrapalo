@@ -1,0 +1,73 @@
+{
+  "response": {
+    "13675621_36-17_18976-1001": {
+      "date": "13/10/2023 21:05",
+      "name": "Platea - Adolescente",
+      "id": "13675621_36-17_18976-1001",
+      "pNormal": "Precio normal: 10.00",
+      "pAtrapalo": "Precio Atrapalo: 0.00",
+      "vendidas": "Vendidas: 4",
+      "stock": "Stock: 96",
+      "currentTimestamp": "1696941664",
+      "tickets": [
+        {
+          "name": "E73297668_1-A25533371352",
+          "barcode": "A25533371352",
+          "date": "13/10/2023 21:05",
+          "ubicacion": "Platea",
+          "tipo_cliente": "Adolescente",
+          "localizer": "E73297668",
+          "precio": "0.00",
+          "status": 0,
+          "fecha_marcaje": "",
+          "update_timestamp": 1696861118,
+          "deleted": "false",
+          "butaca": ""
+        },
+        {
+          "name": "E73297668_2-A35634382464",
+          "barcode": "A35634382464",
+          "date": "13/10/2023 21:05",
+          "ubicacion": "Platea",
+          "tipo_cliente": "Adolescente",
+          "localizer": "E73297668",
+          "precio": "0.00",
+          "status": 0,
+          "fecha_marcaje": "",
+          "update_timestamp": 1696861118,
+          "deleted": "false",
+          "butaca": ""
+        },
+        {
+          "name": "E73297668_3-A45735393576",
+          "barcode": "A45735393576",
+          "date": "13/10/2023 21:05",
+          "ubicacion": "Platea",
+          "tipo_cliente": "Adolescente",
+          "localizer": "E73297668",
+          "precio": "0.00",
+          "status": 0,
+          "fecha_marcaje": "",
+          "update_timestamp": 1696861118,
+          "deleted": "false",
+          "butaca": ""
+        },
+        {
+          "name": "E73297668_4-A55836304688",
+          "barcode": "A55836304688",
+          "date": "13/10/2023 21:05",
+          "ubicacion": "Platea",
+          "tipo_cliente": "Adolescente",
+          "localizer": "E73297668",
+          "precio": "0.00",
+          "status": 0,
+          "fecha_marcaje": "",
+          "update_timestamp": 1696861118,
+          "deleted": "false",
+          "butaca": ""
+        }
+      ]
+    }
+  },
+  "0": true
+}
